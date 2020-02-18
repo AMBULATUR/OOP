@@ -1,0 +1,11 @@
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\bin\Debug\netcoreapp2.1\OOPLab1.deps.json
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\bin\Debug\netcoreapp2.1\OOPLab1.runtimeconfig.json
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\bin\Debug\netcoreapp2.1\OOPLab1.runtimeconfig.dev.json
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\bin\Debug\netcoreapp2.1\OOPLab1.dll
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\bin\Debug\netcoreapp2.1\OOPLab1.pdb
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\obj\Debug\netcoreapp2.1\OOPLab1.csprojAssemblyReference.cache
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\obj\Debug\netcoreapp2.1\OOPLab1.csproj.CoreCompileInputs.cache
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\obj\Debug\netcoreapp2.1\OOPLab1.AssemblyInfoInputs.cache
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\obj\Debug\netcoreapp2.1\OOPLab1.AssemblyInfo.cs
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\obj\Debug\netcoreapp2.1\OOPLab1.dll
+C:\Users\Wrong\Documents\Visual Studio 2017\Projects\OOPLab1\OOPLab1\obj\Debug\netcoreapp2.1\OOPLab1.pdb
