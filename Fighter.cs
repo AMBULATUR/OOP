@@ -14,12 +14,13 @@ namespace OOPLab1
             if (ammoCount >= ammoLoss)
             {
                 ammoCount -= ammoLoss;
-                Console.WriteLine("Bzzht by {0} ammoCount {1} ammoLoss: {2}", weaponName, ammoCount, ammoLoss);
+                Console.WriteLine("Bzzht by {0} RemainingAmmo {1} CurrentAmmo: {2}", weaponName, ammoCount, ammoLoss);
             }
             else
             {
-                Console.WriteLine("Недостаточно ammo");
+                Console.WriteLine("Недостаточно ammo, u want spent: {0} u have: {1}", ammoLoss,ammoCount);
             }
         }
+        
     }
 }

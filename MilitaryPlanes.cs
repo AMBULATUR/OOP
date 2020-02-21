@@ -14,6 +14,11 @@ namespace OOPLab1
             this.ammoCount = ammoCount;
         }
 
+        public override void Display()
+        {
+            base.Display(); 
+            Console.WriteLine("Weapon on board: {0} CurrentAmmoCount: {1}",weaponName,ammoCount);
+        }
         public abstract void Shoot(int ammoLoss);
 
     }
